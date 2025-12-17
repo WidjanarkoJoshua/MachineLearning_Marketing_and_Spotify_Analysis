@@ -84,4 +84,8 @@ Unsupervised learning provides tools to discover natural segments, reduce redund
 
 ---
 
-## Project Structure
+## Future Work
+- Apply segments to live A/B marketing experiments
+- Compare against tree-based and linear campaign models
+- Extend analysis to temporal user behavior
+- Evaluate segment stability over time
